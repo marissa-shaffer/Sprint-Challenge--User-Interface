@@ -121,6 +121,11 @@ nav a{
     padding-left:20px;
 }
 
+button:hover{ 
+    background:black;
+    color:white;
+}
+
 .bottom-section{
     margin: 2%;
     padding-top:2%;
