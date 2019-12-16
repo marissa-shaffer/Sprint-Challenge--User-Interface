@@ -94,3 +94,12 @@ nav a{
     padding: 3%;
 }
 
+.info-section{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    width:46%;
+    margin: 2%;
+}
