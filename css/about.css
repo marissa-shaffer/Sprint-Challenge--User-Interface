@@ -86,5 +86,11 @@ nav a{
 
 .jumbo-about{
     margin-top: 5%;
-    margin-bottom: 5%;
 }
+
+.about-section{
+    margin-bottom:2%;
+    border-bottom:2px dotted black;
+    padding: 3%;
+}
+
